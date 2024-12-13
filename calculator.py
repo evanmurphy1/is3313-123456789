@@ -23,6 +23,7 @@ class Calculator:
         """Raises the base to the power of the exponent and returns the result."""
         return base
 
-     def modulus(self, a, b):
-          """Calculates the modulus of two numbers and returns the result."""
-         return a%b
+
+    def modulus(self, a, b):
+        """Calculates the modulus of two numbers and returns the result."""
+        return a%b
